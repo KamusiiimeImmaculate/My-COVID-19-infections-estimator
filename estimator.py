@@ -4,13 +4,13 @@
     "region": {
         "name": "Africa",
         "AvgAge": 19.7,
-        "avgDailyIncomeInUSD":4,
-        "avgDailyIncomePopulation": 0.73
+        "avgDailyIncomeInUSD":5,
+        "avgDailyIncomePopulation": 0.71
          },
     "periodType": "days",
-    "timeToElapse": 38,
+    "timeToElapse": 58,
     "reportedCases": 2747,
-    "population": 92931687
+    "population": 1380614
      },
 "estimate": {
     "impact":{
